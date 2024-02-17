@@ -18,6 +18,12 @@ Backend 개발자
 </div>
 <div>
 	<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+	
+</div>
+<div>
+	<img src="https://img.shields.io/badge/Htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
+	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+	<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </div>
 
 ### 업무 간접
@@ -49,7 +55,7 @@ Backend 개발자
 	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 	<img src="https://img.shields.io/badge/bootstrap-7953B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+	
 </div>
 <div>
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
