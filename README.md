@@ -57,12 +57,7 @@ Backend 개발자
 	<img src="https://img.shields.io/badge/bootstrap-7953B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 	
 </div>
-<div>
-	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-</div>
-<div>
-	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</div>
+
 
 ### 사용 도구
 
@@ -73,13 +68,17 @@ Backend 개발자
 </div>
 
 <div>
-	<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+	<img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 </div>
 
 <div>
 	<img src="https://img.shields.io/badge/ApacheMaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+	<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </div>
 
 
